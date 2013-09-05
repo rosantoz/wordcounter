@@ -3,9 +3,9 @@ Word Counter with Jquery / PHP
 
 During a job interview I was asked to do the following test:
 
-Task: Create a tool for showing a user how many words are displayed on a web page
+**Task:** Create a tool for showing a user how many words are displayed on a web page
 
-Outline: Create a word counter for a web page using HTML / jQuery / AJAX / PHP. You will need to code the following:
+**Outline:** Create a word counter for a web page using HTML / jQuery / AJAX / PHP. You will need to code the following:
 
 * HTML page accessible in the web browser
 * A PHP script to return the results to the web page using AJAX
