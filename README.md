@@ -7,8 +7,8 @@ Task: Create a tool for showing a user how many words are displayed on a web pag
 
 Outline: Create a word counter for a web page using HTML / jQuery / AJAX / PHP. You will need to code the following:
 
-> HTML page accessible in the web browser
-> A PHP script to return the results to the web page using AJAX
+* HTML page accessible in the web browser
+* A PHP script to return the results to the web page using AJAX
 
 When a user visits the HTML page, they should be presented with a form to enter a URL of a web page. You only need to worry about http:// requests. When the user hits the submit button, your page should use jQuery to check that the input box is not empty. If it is empty, display a error message any way you like. If the user enters a valid string, use jQuery to make an AJAX call to your PHP script. Your PHP script should validate the string as well. If it is valid, retrieve the web page at that URL and count the number of words found in the <BODY> section. 
 
