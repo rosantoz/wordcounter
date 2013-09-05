@@ -1,0 +1,13 @@
+label.error {
+    line-height: 1.8;
+    vertical-align: top;
+    color: red;
+    padding-left: .5em;
+    vertical-align: text-top;
+}
+
+.result {
+    margin: 5px;
+    color: red;
+    font-weight: bold;
+}
